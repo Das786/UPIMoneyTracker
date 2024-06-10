@@ -1,7 +1,7 @@
 
 # UPI Transaction Tracker
 
-![UPI Transaction Tracker](https://example.com/your-image.png)
+![UPI Transaction Tracker](./main.png)
 
 ## Description
 
